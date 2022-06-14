@@ -1,2 +1,2 @@
 # Faxcreport
-download at sipgot
+download at folder download
